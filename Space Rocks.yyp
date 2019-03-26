@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "97d5bab0-2b94-4957-8627-4b3b74610caa",
+            "Value": {
+                "id": "bf5c0bed-10a3-42eb-a520-c420bab69721",
+                "resourcePath": "sprites\\s_debris\\s_debris.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9bab7a5c-50a8-490f-a754-1147e25158e7",
             "Value": {
                 "id": "7464f2c8-caf7-4b93-b809-13d0da1846b3",
@@ -260,6 +268,14 @@
                 "id": "1ed94f4e-7dad-4acf-ab02-fbadb70100dc",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fa332e93-6540-43c7-b06c-b3942eaf53cd",
+            "Value": {
+                "id": "49bf19c6-6572-46e3-b29a-7c5f0062aa77",
+                "resourcePath": "objects\\o_debris\\o_debris.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
