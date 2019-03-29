@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "220f7698-c7bd-4a11-a003-5f40fbac201f",
+            "Value": {
+                "id": "8ef9ccc9-2c42-45ef-9a6b-2171edb64c90",
+                "resourcePath": "rooms\\r_win\\r_win.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2810e198-72fb-497d-93b8-dd88799e0fb5",
             "Value": {
                 "id": "d3eec335-4c7b-411c-98eb-06fd0876869c",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "9c07ac58-02ff-4260-bd40-1ebfa59a5648",
+            "Value": {
+                "id": "0a41f06c-f4d0-4d83-bbc0-5943d30480ea",
+                "resourcePath": "rooms\\r_start\\r_start.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9e3c4d8d-3fe8-4213-ade2-b9057ae67b92",
             "Value": {
                 "id": "a7642348-0d79-46d6-9107-4033809176aa",
@@ -188,6 +204,14 @@
                 "id": "2984de0c-774b-44f3-a1ed-013530858b09",
                 "resourcePath": "views\\a3a4f88e-0181-40d4-885e-9e6d9c3b391c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a49ce6f6-1810-4c91-a549-3d87699e85cd",
+            "Value": {
+                "id": "61868a96-b854-48ed-b59e-b620dbe81f30",
+                "resourcePath": "rooms\\r_gameover\\r_gameover.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
